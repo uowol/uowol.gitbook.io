@@ -1,8 +1,5 @@
 ---
-title: '이미지 비율 유지하기'
 description: '잠시 짬을 내서 유지보수!'
-date: 2020-11-17 19:03:34 +0900
-categories: Modify_Settings
 ---
 # 이미지 비율 유지하기
 
