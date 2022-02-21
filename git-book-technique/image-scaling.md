@@ -1,6 +1,3 @@
----
-description: '잠시 짬을 내서 유지보수!'
----
 # Image Scaling
 
 ## 마크다운(Mark Down)의 경우
